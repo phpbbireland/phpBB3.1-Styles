@@ -420,9 +420,9 @@ dl.faq dt {
 ----------------------------------------*/
 /* Quote block */
 blockquote {
-	background-color: #EBEADD;
+	background-color: #1F1F1F;
 	background-image: url("./images/quote.gif");
-	border-color:#DBDBCE;
+	border-color:#515151;
 }
 
 .rtl blockquote {
@@ -441,8 +441,8 @@ blockquote blockquote blockquote {
 
 /* Code block */
 .codebox {
-	background-color: #FFFFFF;
-	border-color: #C9D2D8;
+	background-color: #2D2D2D;
+	border-color: #515151;
 }
 
 .codebox p {
