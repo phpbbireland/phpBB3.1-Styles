@@ -413,9 +413,9 @@ dl.faq dt {
 ----------------------------------------*/
 /* Quote block */
 blockquote {
-	background-color: #EBEADD;
+	background-color: #282828;
 	background-image: url("./images/quote.gif");
-	border-color:#DBDBCE;
+	border-color:#4B4B4B;
 }
 
 .rtl blockquote {
@@ -434,12 +434,12 @@ blockquote blockquote blockquote {
 
 /* Code block */
 .codebox {
-	background-color: #FFFFFF;
-	border-color: #C9D2D8;
+	background-color: #2E2E2E;
+	border-color: #4B4B4B;
 }
 
 .codebox p {
-	border-bottom-color:  #CCCCCC;
+	border-bottom-color:  #8F8F8F;
 }
 
 .codebox code {
@@ -1110,7 +1110,7 @@ input.disabled {
 /* jQuery popups
 ---------------------------------------- */
 .phpbb_alert {
-	background-color: #FFFFFF;
+	background-color: #343434;
 	border-color: #999999;
 }
 .phpbb_alert .alert_close {
