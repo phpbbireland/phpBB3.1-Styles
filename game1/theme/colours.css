@@ -488,7 +488,7 @@ dl.file dd {
 
 dl.thumbnail img {
 	border-color: #666666;
-	background-color: #FFFFFF;
+	background-color: #464646;
 }
 
 dl.thumbnail dd {
@@ -496,11 +496,12 @@ dl.thumbnail dd {
 }
 
 dl.thumbnail dt a:hover {
-	background-color: #EEEEEE;
+	background-color: transparent;
+	/*background-color: #6C0000;*/
 }
 
 dl.thumbnail dt a:hover img {
-	border-color: #368AD2;
+	border-color: #B00000;
 }
 
 /* Post poll styles
@@ -988,7 +989,7 @@ option.disabled-option {
 /* Definition list layout for forms
 ---------------------------------------- */
 dd label {
-	color: #333;
+	color: #6C6C6C;
 }
 
 fieldset.fields1 {
